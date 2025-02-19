@@ -456,12 +456,20 @@ nav .fa-solid
     }
     .header-text p
     {
-        margin-top: 130%;
+        margin-top: 105%;
         font-size: 16px;
     }
     .header-text h1 
     {
         font-size: 30px;
+    }
+    .logo
+    {
+        width: 80px;
+        height: 35px;
+        cursor: pointer;
+        border: 2px solid rgb(246, 35, 35);
+        padding: 2.5%;
     }
     nav .fa-solid
     {
